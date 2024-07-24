@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Welcome to test feature 1.....
+=======
+updated test feature 2...
+>>>>>>> feature2
 

@@ -1,3 +1,7 @@
 Welcome to git bash ...
 Welcome to Second commit..
 Welcome to third commit..
+
+
+before reverting....
+hello iam there !
